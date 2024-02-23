@@ -1,0 +1,15 @@
+{
+	"42header.email": "yuuko@student.42.fr",
+	"42header.username": "yuuko",
+	"files.associations": {
+		"*.h": "c",
+		"array": "c",
+		"hash_map": "c",
+		"bitset": "c",
+		"string_view": "c",
+		"format": "c",
+		"initializer_list": "c",
+		"span": "c",
+		"regex": "c"
+	},
+}
